@@ -64,7 +64,6 @@ header {
 }
 
 .title {
-    display: flex;
     justify-content: center;
     gap: 270px;
     font-size: 170px;
