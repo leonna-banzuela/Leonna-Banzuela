@@ -65,15 +65,15 @@ header {
 
 .title {
     justify-content: center;
-    gap: 270px;
+    gap: 3vw;
     font-size: 170px;
     color: white;
     align-items: center;
     position: absolute;
 
     top: 13%;
-    left: 22.5%;
-    transform: translate(-50px, -50px);
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 
