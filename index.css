@@ -74,6 +74,7 @@ header {
 
     top: 13%;
     left: 22.5%;
+    transform: translate(-50px, -50px);
 }
 
 
@@ -126,8 +127,8 @@ header {
 
     margin-top: 20px;
     margin-bottom: 80px;
-    margin-left: 330px;
-    margin-right: 330px;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .abtme p {
@@ -153,6 +154,7 @@ header {
 .minecraft {
     display: inline-block;
     width: 35%;
+    height: auto;
 }
 
 
